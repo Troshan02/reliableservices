@@ -1,0 +1,27 @@
+
+/* Custom Styles */
+.equal-height-card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.hero {
+  background: url('./image/Banner-1-b-1.jpg') center center/cover no-repeat;
+  color: white;
+  padding: 100px 0;
+  text-align: center;
+}
+
+.about-hero {
+  background: url('./image/About-us-1.jpg') center center/cover no-repeat;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.hero p {
+  font-size: 1.25rem;
+}
