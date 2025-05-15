@@ -20,6 +20,13 @@ body {
   height: 100%;
 }
 
+#logo {
+   background: url('./image/logo.png') center center/cover no-repeat;
+   width: 200px;
+   height: 52px;
+   text-indent: -9999px;
+}
+
 .hero {
   background: url('./image/Banner-1-b-1.jpg') center center/cover no-repeat;
   color: white;
